@@ -1,3 +1,5 @@
 Testiranje 3
 
 Testiranje 3.1 master branch bug ispravljen
+
+Konflik ciljano radjen
